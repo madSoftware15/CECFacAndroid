@@ -1,0 +1,7 @@
+#Sun Apr 09 23:39:54 EDT 2017
+base.0=/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_32ee9e2875c16bad829c27684faffa8e2dd39e4f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c81a8081b68602274400a47d7ad5881a2c70baa/classes.dex
+base.1=/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c81a8081b68602274400a47d7ad5881a2c70baa
+file.0=/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_32ee9e2875c16bad829c27684faffa8e2dd39e4f/classes.dex

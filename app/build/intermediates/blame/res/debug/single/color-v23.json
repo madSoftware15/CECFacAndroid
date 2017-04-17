@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/Mitch/.android/build-cache/f75678fcea64dcfd108bf959a387cceec69c9bd3/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Mitch/.android/build-cache/c7218688e58db4132485555bcbcb63dda2e0fc0b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

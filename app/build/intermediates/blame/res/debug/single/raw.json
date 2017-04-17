@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/raw/faculty_data.json",
+        "source": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/src/main/res/raw/faculty_data.json"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/raw/courses_data.json",
+        "source": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/src/main/res/raw/courses_data.json"
+    }
+]

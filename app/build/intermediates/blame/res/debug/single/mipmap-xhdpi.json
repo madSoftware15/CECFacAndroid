@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/CECFaculty/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
